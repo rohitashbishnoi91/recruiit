@@ -24,7 +24,7 @@ Recruiit is an intelligent recruitment tool that leverages vector embeddings, ru
 | **OpenAI / LLM** | Query parsing and SQL agent |
 | **ContactOut API** | External candidate sourcing |
 | **SQL** | Resume and candidate data storage |
-| **Flask / FastAPI (optional)** | API wrapper (if applicable) |
+| **FastAPI ** | API wrapper  |
 
 ---
 
